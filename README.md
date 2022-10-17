@@ -9,7 +9,7 @@ Create a Database manually
 
 From the virtual environment that you use for Synapse, install this module with:
 ```shell
-pip install synapse-audiobomb
+pip install synapse-audiobomb-module
 ```
 (If you run into issues, you may need to upgrade `pip` first, e.g. by running
 `pip install --upgrade pip`)
